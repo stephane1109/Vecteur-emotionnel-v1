@@ -1,5 +1,6 @@
 ##########################################
-# Projet : Vecteur Emotionel - v1 - FER - Moyenne - PCA - Kmeans
+# Projet : Vecteur Emotionnel - v1 - FER - Moyenne - PCA - Kmeans
+# Version : 1.0
 # Auteur : Stéphane Meurisse
 # Contact : stephane.meurisse@example.com
 # Site Web : https://www.codeandcortex.fr
